@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-ravi/second-module",
+  "name": "@sample/second-module",
   "version": "1.0.0",
   "private": false,
   "files": [
@@ -27,5 +27,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "86261699e8b99a18b0fe2808bb7e7c9395ed1436"
+  "gitHead": "44d16a32b51e5721febb17d5c10c9b45a3768984"
 }
