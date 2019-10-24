@@ -1,10 +1,13 @@
 {
-  "name": "my-scope-name",
+  "name": "lerna-ravi",
   "private": false,
   "workspaces": [
     "packages/*"
  ],
   "devDependencies": {
     "lerna": "^3.18.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
