@@ -1,5 +1,5 @@
 {
-  "name": "second-module",
+  "name": "@my-scope-name/second-module",
   "version": "1.0.0",
   "private": false,
   "files": [
