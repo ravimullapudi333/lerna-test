@@ -1,6 +1,6 @@
 {
   "name": "my-module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "files": [
     "lib"
@@ -24,5 +24,5 @@
     "tslib": "1.9.3",
     "typescript": "3.4.1"
   },
-  "gitHead": "d916fcd6a2de78f23572c7956c3cb11b6bc6a364"
+  "gitHead": "94379b83644cbd2f25864df724d8482a26fd69fd"
 }
