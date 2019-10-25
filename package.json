@@ -1,6 +1,9 @@
 {
   "name": "ravimullapudi333",
   "private": false,
+  "workspaces": [
+    "packages/*"
+ ],
   "devDependencies": {
     "lerna": "^3.18.3"
   },
