@@ -1,5 +1,5 @@
 {
-  "name": "sample",
+  "name": "ravi-lerna-test",
   "private": false,
   "workspaces": [
     "packages/*"
