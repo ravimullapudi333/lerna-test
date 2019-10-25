@@ -1,11 +1,14 @@
 {
   "name": "ravimullapudi333",
   "private": false,
-  "workspaces": [
-    "packages/*"
- ],
   "devDependencies": {
     "lerna": "^3.18.3"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap --hoist",
+    "start": "lerna run start --stream",
+    "tsc": "lerna run tsc --stream",
+    "watch": "lerna run watch --stream"
   },
   "publishConfig": {
     "access": "public"

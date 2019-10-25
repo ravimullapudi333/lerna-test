@@ -8,7 +8,8 @@
   "main": "./lib/index.js",
   "types": "./lib/types.d.ts",
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "cleanbuild": "rm -r node_modules && npm install && tsc"
   },
   "peerDependencies": {
     "react": ">= 16.8.0 < 17",
