@@ -1,5 +1,5 @@
 {
-  "name": "@ravi-lerna-test/my-module",
+  "name": "@ravimullapudi333/my-module",
   "version": "1.0.1",
   "private": false,
   "files": [
@@ -27,5 +27,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "c1a7b774410b013bd304fbd5af952dbbebd1cf25"
+  "gitHead": "829b86665bf3b86827053481d79b1bcdb3d27c30"
 }
